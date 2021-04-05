@@ -1,4 +1,4 @@
 gcc 
 g++ 
 build-essential 
-python-3.7.10
+python3-dev
