@@ -2,10 +2,10 @@ numpy
 pandas
 matplotlib
 convertdate
-pystan==3.0.1
-yfinance==0.1.55
-streamlit==0.78.0
-plotly==4.14.3
-fbprophet==0.7.1
+pystan
+yfinance
+streamlit
+plotly
+fbprophet
 
 
