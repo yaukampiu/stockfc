@@ -1,3 +1,6 @@
+numpy
+pandas
+matplotlib
 convertdate
 pystan==3.0.1
 yfinance==0.1.55
