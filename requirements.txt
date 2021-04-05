@@ -1,7 +1,7 @@
 numpy
 pandas
 matplotlib
-convertdate
+convertdate==2.2.0
 pystan==3.0.1
 yfinance==0.1.55
 streamlit==0.78.0
