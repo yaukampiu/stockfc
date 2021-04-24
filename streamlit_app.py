@@ -7,12 +7,12 @@ from fbprophet import Prophet
 from fbprophet.plot import plot_plotly
 from plotly import graph_objs as go
 
-START = "2015-01-01"
+START = "2010-01-01"
 TODAY = date.today().strftime("%Y-%m-%d")
 
 st.title('My Stock Forecast App')
 
-stocks = ('AAPL', 'GOOG', 'TSLA', 'TSM', 'VOO', 'BTC-USD')
+stocks = ('AAPL', 'GOOG', 'TSLA', 'TSM', 'VOO', 'BTC-USD', 'ETH-USD', '^HSI', '^IXIC')
 selected_stock = st.selectbox('Select Stock for Prediction', stocks)
 
 n_years = st.slider('Number of Years to Predict:', 1, 5)
