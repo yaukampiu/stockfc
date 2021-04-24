@@ -3,6 +3,7 @@ numpy
 pandas
 matplotlib
 convertdate
+pystan
 yfinance
 streamlit
 plotly
