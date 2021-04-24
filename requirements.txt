@@ -7,6 +7,6 @@ pystan
 yfinance
 streamlit
 plotly
-fbprophet --no-cache-dir
+fbprophet
 
 
